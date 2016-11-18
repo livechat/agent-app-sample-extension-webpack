@@ -1,0 +1,15 @@
+{
+  "name": "agent-app-sample-extension-js",
+  "version": "0.0.1",
+  "description": "Sample static content for agent app extension",
+  "main": "index.html",
+  "scripts": {
+    "start": "webpack-dev-server --inline"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.24.1",
+    "webpack": "^1.13.3"
+  }
+}
