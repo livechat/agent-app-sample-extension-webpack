@@ -10,6 +10,6 @@ Add sample agent app extension by:
 ```js
 App.collections.Integrations.add({
   id: 'salesforce2',
-  url: 'https://your-extension.ulr/'
+  url: 'https://localhost:3333'
 })
 ```
